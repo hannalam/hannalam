@@ -94,7 +94,7 @@ currently_learning: ["React, Django, and React Native"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
-<img src="https://img.utdstc.com/icon/1b3/722/1b3722b68feb852cf04ef3d889866a8c04367b47fcf01791ccd6e0e5f6117431:200" alt="spark ar" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/sparkar-by-facebook.svg" alt="spark ar" width="45" height="45"/>
 </p>
 
 <p align="center">
