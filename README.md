@@ -23,7 +23,7 @@ https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3
 </p>
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
 </p>
 
 <h1 align="center">
