@@ -1,6 +1,6 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
 **hannalam/hannalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,12 +18,9 @@ Here are some ideas to get you started:
 <!--Style idea from: https://github.com/kyechan99/capsule-render?tab=readme-ov-file#wave 
 https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&animation=fadeIn&type=waving&color=gradient&height=100&section=header"/>
-</p>
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome to my space!&height=100&section=header"/>
 </p>
 
 <h1 align="center">
