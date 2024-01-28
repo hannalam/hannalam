@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783 
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome to my space!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome to my space!&animation=fadeIn&type=waving&color=gradient&height=100&section=header"/>
 </p>
 
 <h1 align="center">
